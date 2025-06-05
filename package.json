@@ -1,0 +1,28 @@
+{
+  "name": "flow-builder-executor",
+  "version": "0.1.0",
+  "description": "A visual tool to build and execute dynamic workflows.",
+  "main": "index.js",
+  "scripts": {
+    "start:builder": "echo \"Error: no start:builder script specified\" && exit 1",
+    "start:executor": "echo \"Error: no start:executor script specified\" && exit 1",
+    "start:api": "echo \"Error: no start:api script specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "workflow",
+    "flow-builder",
+    "no-code",
+    "low-code"
+  ],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
